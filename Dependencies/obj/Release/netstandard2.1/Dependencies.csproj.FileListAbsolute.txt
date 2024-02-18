@@ -1,0 +1,11 @@
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\Dependencies.deps.json
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\Dependencies.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\Dependencies.pdb
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.csproj.AssemblyReference.cache
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.AssemblyInfoInputs.cache
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.AssemblyInfo.cs
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.csproj.CoreCompileInputs.cache
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.sourcelink.json
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.dll
+D:\Projects\Template\Dependencies\obj\Release\netstandard2.1\Dependencies.pdb

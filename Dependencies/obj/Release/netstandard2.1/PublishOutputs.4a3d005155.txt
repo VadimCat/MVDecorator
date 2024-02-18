@@ -1,0 +1,10 @@
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\Dependencies.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\Dependencies.deps.json
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\Dependencies.pdb
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\Castle.Core.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\LiteDB.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\Newtonsoft.Json.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\NSubstitute.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\System.Diagnostics.EventLog.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\System.Security.Principal.Windows.dll
+D:\Projects\Template\Dependencies\bin\Release\netstandard2.1\publish\System.Threading.Tasks.Extensions.dll
